@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/microservice-simple-client2/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-gateway-zuul/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-simple-client11/pom.xml" />
+        <option value="$PROJECT_DIR$/nettyio/pom.xml" />
       </list>
     </option>
   </component>

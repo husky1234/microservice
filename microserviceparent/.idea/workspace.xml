@@ -2,51 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c80c06a0-48f9-4a84-925a-2bf1f128c96e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/Concurrent1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/Concurrent2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/Concurrent3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/Concurrent4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/Concurrent5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/Concurrent6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/Concurrent7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/Concurrent8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/Concurrent9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/IntLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/OrderPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/TimeLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/mycontainer/Mycontainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/nio/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/nio/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/rpc/EchoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/rpc/EchoServiceImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/test/FileCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/test/GetUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/test/Kafka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/test/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/test/WriteTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/test/WriteThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/test/Algrithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/test/TestInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nettyio/nettyio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nettyio/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nettyio/src/main/java/com/husky/thread/LimitedResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nettyio/src/main/java/com/husky/thread/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nettyio/src/main/java/com/husky/thread/ThreadTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-gateway-zuul/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-gateway-zuul/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/target/classes/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-gateway-zuul/target/classes/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-simple-client1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-simple-client1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-simple-client1/src/main/java/com/husky/microservicesimpleclient1/MicroserviceSimpleClient1Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-simple-client1/src/main/java/com/husky/microservicesimpleclient1/MicroserviceSimpleClient1Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-simple-client1/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-simple-client1/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-simple-client1/target/classes/com/husky/microservicesimpleclient1/MicroserviceSimpleClient1Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-simple-client1/target/classes/com/husky/microservicesimpleclient1/MicroserviceSimpleClient1Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-simple-client11/target/classes/META-INF/microservice-simple-client1 (1).kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-simple-client11/target/classes/com/husky/microservicesimpleclient1/MicroserviceSimpleClient1Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-simple-client2/out/production/classes/com/husky/ApplicationStarter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-simple-client2/out/production/classes/com/husky/jopo/BaseCatolog1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-simple-client2/target/classes/com/husky/ApplicationStarter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-simple-client2/target/classes/com/husky/controller/CatelogController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-simple-client2/target/classes/com/husky/jopo/BaseCatolog1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-simple-client2/target/classes/com/husky/reposity/CatelogReposity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-simple-client2/target/classes/com/husky/service/CatelogService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-simple-client2/target/classes/com/husky/service/imp/CatelogServiceImp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-simple-provider/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-simple-provider/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-simple-provider/target/classes/META-INF/microservice-simple-provider.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-simple-provider/target/classes/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-simple-provider/target/classes/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/Concurrent9.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/Concurrent9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/target/classes/com/husky/microservicegatewayzuul/MicroserviceGatewayZuulApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/target/classes/com/husky/microservicegatewayzuul/concurrent/Concurrent1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/target/classes/com/husky/microservicegatewayzuul/concurrent/Concurrent2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/target/classes/com/husky/microservicegatewayzuul/concurrent/Concurrent3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/target/classes/com/husky/microservicegatewayzuul/concurrent/Concurrent4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/target/classes/com/husky/microservicegatewayzuul/concurrent/Concurrent5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/target/classes/com/husky/microservicegatewayzuul/concurrent/Concurrent6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/target/classes/com/husky/microservicegatewayzuul/concurrent/Concurrent7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/target/classes/com/husky/microservicegatewayzuul/concurrent/Concurrent8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/target/classes/com/husky/microservicegatewayzuul/concurrent/Concurrent9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/target/classes/com/husky/microservicegatewayzuul/concurrent/IntLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/target/classes/com/husky/microservicegatewayzuul/concurrent/OrderPrint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/target/classes/com/husky/microservicegatewayzuul/concurrent/TimeLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/target/classes/com/husky/microservicegatewayzuul/concurrent/mycontainer/Mycontainer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/target/classes/com/husky/microservicegatewayzuul/nio/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/target/classes/com/husky/microservicegatewayzuul/nio/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/target/classes/com/husky/microservicegatewayzuul/rpc/EchoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/target/classes/com/husky/microservicegatewayzuul/rpc/EchoServiceImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/target/classes/com/husky/microservicegatewayzuul/test/FileCompare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/target/classes/com/husky/microservicegatewayzuul/test/GetUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/target/classes/com/husky/microservicegatewayzuul/test/Kafka.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/target/classes/com/husky/microservicegatewayzuul/test/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/target/classes/com/husky/microservicegatewayzuul/test/WriteTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/target/classes/com/husky/microservicegatewayzuul/test/WriteThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -59,6 +53,7 @@
     <ignored path="$PROJECT_DIR$/microservice-simple-client2/out/" />
     <ignored path="$PROJECT_DIR$/microservice-gateway-zuul/target/" />
     <ignored path="$PROJECT_DIR$/microservice-simple-client11/target/" />
+    <ignored path="$PROJECT_DIR$/nettyio/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,59 +84,35 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="499" column="32" selection-start-line="499" selection-start-column="20" selection-end-line="499" selection-end-column="32" />
-              <folding>
-                <element signature="e#17535#17536#0" expanded="true" />
-                <element signature="e#17577#17578#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="425">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
             </state>
           </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/Concurrent6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/microservice-simple-provider/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/Concurrent7.java">
+        <entry file="file://$PROJECT_DIR$/nettyio/src/main/java/com/husky/thread/ThreadTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/Concurrent8.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="150">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/Concurrent9.java">
+        <entry file="file://$PROJECT_DIR$/nettyio/src/main/java/com/husky/thread/LimitedResource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="51" column="69" lean-forward="true" selection-start-line="51" selection-start-column="69" selection-end-line="51" selection-end-column="69" />
+            <state relative-caret-position="369">
+              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -150,37 +121,64 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/concurrent/ForkJoinTask.java">
+        <entry file="file://$PROJECT_DIR$/nettyio/src/main/java/com/husky/thread/ThreadTest1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="719" column="31" lean-forward="true" selection-start-line="719" selection-start-column="31" selection-end-line="719" selection-end-column="31" />
+            <state relative-caret-position="125">
+              <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.13/eureka-client-1.9.13-sources.jar!/com/netflix/discovery/util/RateLimiter.java">
+        <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+            <state relative-caret-position="425">
+              <caret line="17" column="21" selection-start-line="16" selection-end-line="18" selection-end-column="17" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/MicroserviceGatewayZuulApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/Runnable.java">
+        <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/Concurrent1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+            <state relative-caret-position="200">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/concurrent/locks/ReadWriteLock.java">
+        <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/Concurrent2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="122" column="7" selection-start-line="122" selection-start-column="7" selection-end-line="122" selection-end-column="40" />
+            <state relative-caret-position="675">
+              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/Thread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12450">
+              <caret line="550" column="31" selection-start-line="550" selection-start-column="27" selection-end-line="550" selection-end-column="31" />
+              <folding>
+                <element signature="e#15020#15021#0" expanded="true" />
+                <element signature="e#15084#15085#0" expanded="true" />
+                <element signature="e#15704#15705#0" expanded="true" />
+                <element signature="e#15770#15771#0" expanded="true" />
+                <element signature="e#19132#19133#0" expanded="true" />
+                <element signature="e#19175#19176#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -215,19 +213,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/microservice-simple-client1/src/main/java/com/husky/microservicesimpleclient1/pojo/UserInfo.java" />
-        <option value="$PROJECT_DIR$/microservice-simple-client1/src/main/java/com/husky/microservicesimpleclient1/service/imp/UserInfoServiceImp.java" />
-        <option value="$PROJECT_DIR$/microservice-simple-client1/src/main/java/com/husky/microservicesimpleclient1/service/UserInfoService.java" />
-        <option value="$PROJECT_DIR$/microservice-simple-client2/pom.xml" />
-        <option value="$PROJECT_DIR$/microservice-simple-client2/build.gradle" />
-        <option value="$PROJECT_DIR$/microservice-simple-client2/src/main/java/com/husky/ApplicationStarter.java" />
-        <option value="$PROJECT_DIR$/microservice-simple-client2/src/main/resources/application.yaml" />
-        <option value="$PROJECT_DIR$/microservice-simple-client2/src/main/java/com/husky/reposity/CatelogReposity.java" />
-        <option value="$PROJECT_DIR$/microservice-simple-client2/src/main/java/com/husky/service/CatelogService.java" />
-        <option value="$PROJECT_DIR$/microservice-simple-client2/src/main/java/com/husky/service/imp/CatelogServiceImp.java" />
-        <option value="$PROJECT_DIR$/microservice-simple-client2/src/main/java/com/husky/controller/CatelogController.java" />
-        <option value="$PROJECT_DIR$/microservice-simple-client2/src/main/java/com/husky/jopo/BaseCatolog1.java" />
-        <option value="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/MicroserviceGatewayZuulApplication.java" />
         <option value="$PROJECT_DIR$/microservice-simple-client11/src/main/resources/application.yaml" />
         <option value="$PROJECT_DIR$/microservice-simple-client11/src/main/java/com/husky/microservicesimpleclient1/MicroserviceSimpleClient1Application.java" />
         <option value="$PROJECT_DIR$/microservice-simple-client11/src/main/java/com/husky/microservicesimpleclient1/MicroserviceSimpleClient1Application1.java" />
@@ -251,7 +236,6 @@
         <option value="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/nio/Server.java" />
         <option value="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/rpc/EchoService.java" />
         <option value="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/rpc/EchoServiceImp.java" />
-        <option value="$PROJECT_DIR$/microservice-gateway-zuul/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/concurrent1.java" />
         <option value="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/Concurrent1.java" />
         <option value="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/Concurrent2.java" />
@@ -266,6 +250,20 @@
         <option value="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/Concurrent7.java" />
         <option value="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/Concurrent8.java" />
         <option value="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/Concurrent9.java" />
+        <option value="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/test/Algrithm.java" />
+        <option value="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/test/TestClassLoad.java" />
+        <option value="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/test/TestInit.java" />
+        <option value="$PROJECT_DIR$/nettyio/src/main/java/com/husky/nioclient/EchoServerHandler.java" />
+        <option value="$PROJECT_DIR$/nettyio/src/main/java/com/husky/service/DiscardServer.java" />
+        <option value="$PROJECT_DIR$/nettyio/src/main/java/com/husky/service/EchoDerver.java" />
+        <option value="$PROJECT_DIR$/nettyio/src/main/java/com/husky/service/EchoServerHandler.java" />
+        <option value="$PROJECT_DIR$/nettyio/src/main/java/com/husky/nioclient/EchoClientHandler.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-gateway-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/nettyio/pom.xml" />
+        <option value="$PROJECT_DIR$/nettyio/src/main/java/com/husky/thread/ThreadTest.java" />
+        <option value="$PROJECT_DIR$/nettyio/src/main/java/com/husky/thread/ThreadTest1.java" />
+        <option value="$PROJECT_DIR$/nettyio/src/main/java/com/husky/thread/LimitedResource.java" />
       </list>
     </option>
   </component>
@@ -282,20 +280,16 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="microservice-simple-client1" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="microserviceparent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="microservice-gateway-zuul" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-14" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-10" />
     <option name="width" value="1943" />
-    <option name="height" value="1047" />
+    <option name="height" value="1063" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -305,6 +299,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -321,125 +316,72 @@
             <path>
               <item name="microserviceparent" type="b2602c69:ProjectViewProjectNode" />
               <item name="microserviceparent" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-gateway-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-simple-provider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microserviceparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceparent" type="462c0819:PsiDirectoryNode" />
+              <item name="nettyio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microserviceparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceparent" type="462c0819:PsiDirectoryNode" />
+              <item name="nettyio" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="microserviceparent" type="b2602c69:ProjectViewProjectNode" />
               <item name="microserviceparent" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-gateway-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microserviceparent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microserviceparent" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-gateway-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microserviceparent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microserviceparent" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-gateway-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="nettyio" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="microserviceparent" type="b2602c69:ProjectViewProjectNode" />
               <item name="microserviceparent" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-gateway-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="nettyio" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="husky" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="microserviceparent" type="b2602c69:ProjectViewProjectNode" />
               <item name="microserviceparent" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-gateway-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="nettyio" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="husky" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicegatewayzuul" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="microserviceparent" type="b2602c69:ProjectViewProjectNode" />
               <item name="microserviceparent" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-gateway-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="nettyio" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="husky" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicegatewayzuul" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="microserviceparent" type="b2602c69:ProjectViewProjectNode" />
               <item name="microserviceparent" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-gateway-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="nettyio" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microserviceparent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microserviceparent" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-gateway-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microserviceparent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microserviceparent" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-gateway-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microserviceparent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microserviceparent" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-gateway-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="husky" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microserviceparent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microserviceparent" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-gateway-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="husky" type="462c0819:PsiDirectoryNode" />
-              <item name="microservicegatewayzuul" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="microserviceparent" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="microserviceparent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.boot:spring-boot-actuator-autoconfigure:2.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -452,10 +394,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gradlepractice" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/nettyio/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -495,9 +442,9 @@
     </option>
     <option name="contentProportion" value="0.2704918" />
   </component>
-  <component name="RunManager" selected="Application.Concurrent9">
-    <configuration name="Concurrent5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.husky.microservicegatewayzuul.concurrent.Concurrent5" />
+  <component name="RunManager" selected="Application.ThreadTest1">
+    <configuration name="Concurrent1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.husky.microservicegatewayzuul.concurrent.Concurrent1" />
       <module name="microservice-gateway-zuul" />
       <extension name="coverage">
         <pattern>
@@ -509,8 +456,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Concurrent6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.husky.microservicegatewayzuul.concurrent.Concurrent6" />
+    <configuration name="Concurrent2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.husky.microservicegatewayzuul.concurrent.Concurrent2" />
       <module name="microservice-gateway-zuul" />
       <extension name="coverage">
         <pattern>
@@ -522,12 +469,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Concurrent7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.husky.microservicegatewayzuul.concurrent.Concurrent7" />
+    <configuration name="SubClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.husky.microservicegatewayzuul.test.SubClass" />
       <module name="microservice-gateway-zuul" />
+      <option name="VM_PARAMETERS" value="-Xms100M -Xmx256M -XX:MaxTenuringThreshold=8 -XX:PretenureSizeThreshold=1048576 -XX:SurvivorRatio=6 " />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.husky.microservicegatewayzuul.concurrent.*" />
+          <option name="PATTERN" value="com.husky.microservicegatewayzuul.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -535,12 +483,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Concurrent8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.husky.microservicegatewayzuul.concurrent.Concurrent8" />
-      <module name="microservice-gateway-zuul" />
+    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.husky.thread.ThreadTest" />
+      <module name="nettyio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.husky.microservicegatewayzuul.concurrent.*" />
+          <option name="PATTERN" value="com.husky.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -548,12 +496,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Concurrent9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.husky.microservicegatewayzuul.concurrent.Concurrent9" />
-      <module name="microservice-gateway-zuul" />
+    <configuration name="ThreadTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.husky.thread.ThreadTest1" />
+      <module name="nettyio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.husky.microservicegatewayzuul.concurrent.*" />
+          <option name="PATTERN" value="com.husky.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -577,6 +525,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MicroserviceSimpleClient1Application1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-simple-client1 (1)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.husky.microservicesimpleclient1.MicroserviceSimpleClient1Application1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MicroserviceSimpleProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="microservice-simple-provider" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.husky.microservicesimpleprovider.MicroserviceSimpleProviderApplication" />
@@ -585,22 +540,23 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.SubClass" />
+      <item itemvalue="Application.ThreadTest" />
+      <item itemvalue="Application.Concurrent1" />
+      <item itemvalue="Application.Concurrent2" />
+      <item itemvalue="Application.ThreadTest1" />
       <item itemvalue="Spring Boot.MicroserviceGatewayZuulApplication" />
       <item itemvalue="Spring Boot.MicroserviceSimpleClient1Application" />
       <item itemvalue="Spring Boot.MicroserviceSimpleProviderApplication" />
-      <item itemvalue="Application.Concurrent5" />
-      <item itemvalue="Application.Concurrent6" />
-      <item itemvalue="Application.Concurrent7" />
-      <item itemvalue="Application.Concurrent8" />
-      <item itemvalue="Application.Concurrent9" />
+      <item itemvalue="Spring Boot.MicroserviceSimpleClient1Application1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Concurrent9" />
-        <item itemvalue="Application.Concurrent8" />
-        <item itemvalue="Application.Concurrent7" />
-        <item itemvalue="Application.Concurrent6" />
-        <item itemvalue="Application.Concurrent5" />
+        <item itemvalue="Application.ThreadTest1" />
+        <item itemvalue="Application.ThreadTest" />
+        <item itemvalue="Application.Concurrent2" />
+        <item itemvalue="Application.Concurrent1" />
+        <item itemvalue="Application.SubClass" />
       </list>
     </recent_temporary>
   </component>
@@ -627,7 +583,14 @@
       <workItem from="1578486944617" duration="5103000" />
       <workItem from="1578571886006" duration="1863000" />
       <workItem from="1578659539644" duration="5697000" />
-      <workItem from="1578720913809" duration="24180000" />
+      <workItem from="1578720913809" duration="24757000" />
+      <workItem from="1578807779974" duration="6457000" />
+      <workItem from="1579414164122" duration="598000" />
+      <workItem from="1579757595335" duration="10217000" />
+      <workItem from="1580029458990" duration="3983000" />
+      <workItem from="1580286514129" duration="9906000" />
+      <workItem from="1580453988352" duration="4573000" />
+      <workItem from="1580646176322" duration="632000" />
     </task>
     <servers />
   </component>
@@ -655,7 +618,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120945000" />
+    <option name="totallyTimeSpent" value="157888000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -667,22 +630,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="0" width="1554" height="837" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="0" width="1554" height="850" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.36703297" visible="true" weight="0.18716578" />
-      <window_info id="Structure" order="1" sideWeight="0.63296705" side_tool="true" visible="true" weight="0.18716578" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7632312" visible="true" weight="0.23462567" />
+      <window_info id="Structure" order="1" sideWeight="0.2367688" side_tool="true" visible="true" weight="0.23462567" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.5007133" side_tool="true" weight="0.25" />
       <window_info id="Web" order="7" sideWeight="0.5007133" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Run Dashboard" order="0" weight="0.2556818" />
+      <window_info anchor="bottom" id="Run Dashboard" order="0" weight="0.296034" />
       <window_info anchor="bottom" id="Build" order="1" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.35460994" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.34588563" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.3569405" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
@@ -695,11 +657,11 @@
       <window_info anchor="bottom" id="Database Changes" order="14" />
       <window_info anchor="bottom" id="Version Control" order="15" />
       <window_info anchor="bottom" id="JProfiler" order="16" />
-      <window_info anchor="bottom" id="Messages" order="17" weight="0.32954547" />
+      <window_info anchor="bottom" id="Messages" order="17" weight="0.23654391" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.0407754" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.19705094" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.19652407" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" />
@@ -713,144 +675,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/test/Kafka.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/test/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/test/WriteThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="621" column="8" selection-start-line="621" selection-start-column="8" selection-end-line="621" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/jre/lib/rt.jar!/sun/nio/cs/StreamEncoder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="108" column="16" selection-start-line="108" selection-start-column="16" selection-end-line="108" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/stream/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-258">
-          <caret line="168" column="14" selection-start-line="168" selection-start-column="14" selection-end-line="168" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="2132" column="22" selection-start-line="2132" selection-start-column="15" selection-end-line="2132" selection-end-column="22" />
-          <folding>
-            <element signature="e#82616#82617#0" expanded="true" />
-            <element signature="e#82667#82668#0" expanded="true" />
-            <element signature="e#82971#82972#0" expanded="true" />
-            <element signature="e#83020#83021#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/test/GetUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/test/WriteTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/io/OutputStreamWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1325">
-          <caret line="78" column="23" selection-start-line="78" selection-start-column="23" selection-end-line="78" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/io/Writer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7100">
-          <caret line="309" column="27" selection-start-line="309" selection-start-column="27" selection-end-line="309" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/test/FileCompare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/MicroserviceGatewayZuulApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/nio/Server.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="27" column="125" selection-start-line="27" selection-start-column="125" selection-end-line="27" selection-end-column="125" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/nio/file/StandardOpenOption.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1100">
-          <caret line="67" column="11" selection-start-line="67" selection-start-column="11" selection-end-line="67" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/rpc/EchoService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/nio/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="14" column="97" selection-start-line="14" selection-start-column="97" selection-end-line="14" selection-end-column="97" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/nio/channels/Selector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7650">
@@ -865,13 +689,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28775">
-          <caret line="1192" column="69" selection-start-line="1192" selection-start-column="66" selection-end-line="1192" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/rpc/EchoServiceImp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -883,46 +700,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="60" column="46" lean-forward="true" selection-start-line="60" selection-start-column="46" selection-end-line="60" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/Concurrent1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/Concurrent2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11">
-          <caret line="454" column="32" selection-start-line="454" selection-start-column="32" selection-end-line="454" selection-end-column="32" />
-          <folding>
-            <element signature="e#15020#15021#0" expanded="true" />
-            <element signature="e#15084#15085#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="214">
@@ -1049,38 +827,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="499" column="32" selection-start-line="499" selection-start-column="20" selection-end-line="499" selection-end-column="32" />
-          <folding>
-            <element signature="e#17535#17536#0" expanded="true" />
-            <element signature="e#17577#17578#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/concurrent/locks/ReadWriteLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="122" column="7" selection-start-line="122" selection-start-column="7" selection-end-line="122" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.13/eureka-client-1.9.13-sources.jar!/com/netflix/discovery/util/RateLimiter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/16.0/guava-16.0.jar!/com/google/common/util/concurrent/RateLimiter.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -1095,9 +841,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/concurrent/ForkJoinPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="777" column="23" selection-start-line="777" selection-start-column="23" selection-end-line="777" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11050">
+          <caret line="499" column="32" selection-start-line="499" selection-start-column="20" selection-end-line="499" selection-end-column="32" />
+          <folding>
+            <element signature="e#17535#17536#0" expanded="true" />
+            <element signature="e#17577#17578#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/Concurrent6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
+        <state relative-caret-position="275">
           <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1107,42 +871,191 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/Concurrent7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        <state relative-caret-position="675">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/test/TestClassLoad.java" />
     <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/Concurrent8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        <state relative-caret-position="350">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/concurrent/ForkJoinTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="719" column="31" lean-forward="true" selection-start-line="719" selection-start-column="31" selection-end-line="719" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/concurrent/ForkJoinPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="777" column="23" selection-start-line="777" selection-start-column="23" selection-end-line="777" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/Concurrent9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="51" column="69" lean-forward="true" selection-start-line="51" selection-start-column="69" selection-end-line="51" selection-end-column="69" />
+        <state relative-caret-position="1100">
+          <caret line="45" column="92" selection-start-line="45" selection-start-column="92" selection-end-line="45" selection-end-column="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/concurrent/ConcurrentLinkedQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6225">
+          <caret line="302" column="7" selection-start-line="302" selection-start-column="7" selection-end-line="302" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/test/Algrithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4950">
+          <caret line="233" column="29" selection-start-line="233" selection-start-column="29" selection-end-line="233" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/test/TestInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nettyio/src/main/java/com/husky/service/DiscardServer.java" />
+    <entry file="file://$PROJECT_DIR$/nettyio/src/main/java/com/husky/service/EchoServerHandler.java" />
+    <entry file="file://$PROJECT_DIR$/nettyio/src/main/java/com/husky/nioclient/EchoClientHandler.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/5.0.0.Alpha2/netty-all-5.0.0.Alpha2.jar!/io/netty/channel/ChannelInboundHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/5.0.0.Alpha2/netty-all-5.0.0.Alpha2.jar!/io/netty/channel/ChannelHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/concurrent/ForkJoinTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16775">
+          <caret line="719" column="31" selection-start-line="719" selection-start-column="31" selection-end-line="719" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.13/eureka-client-1.9.13-sources.jar!/com/netflix/discovery/util/RateLimiter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/concurrent/locks/ReadWriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2225">
+          <caret line="122" column="7" selection-start-line="122" selection-start-column="7" selection-end-line="122" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nettyio/src/main/java/com/husky/service/EchoDerver.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="54" column="20" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nettyio/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-simple-provider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nettyio/src/main/java/com/husky/thread/ThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nettyio/src/main/java/com/husky/thread/ThreadTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="21" selection-start-line="16" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/MicroserviceGatewayZuulApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/Concurrent1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/husky/microservicegatewayzuul/concurrent/Concurrent2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12450">
+          <caret line="550" column="31" selection-start-line="550" selection-start-column="27" selection-end-line="550" selection-end-column="31" />
+          <folding>
+            <element signature="e#15020#15021#0" expanded="true" />
+            <element signature="e#15084#15085#0" expanded="true" />
+            <element signature="e#15704#15705#0" expanded="true" />
+            <element signature="e#15770#15771#0" expanded="true" />
+            <element signature="e#19132#19133#0" expanded="true" />
+            <element signature="e#19175#19176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nettyio/src/main/java/com/husky/thread/LimitedResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1152,9 +1065,78 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>nettyio</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
