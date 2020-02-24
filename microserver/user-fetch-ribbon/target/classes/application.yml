@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: ribbon-user
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://192.168.61.110:3306/gmall?serverTimezone=UTC
+    username: root
+    password: root
+eureka:
+  client:
+    service-url:
+      defaultZone:  http://localhost:8761/eureka/,http://localhost:8762/eureka/
+server:
+  port: 8082
