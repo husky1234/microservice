@@ -1,7 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="ea2b0b69-cbdc-4f59-b05f-3063782c8608" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="ea2b0b69-cbdc-4f59-b05f-3063782c8608" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/src/main/java/com/husky/managerweb/ManagerWebApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/src/test/java/com/husky/managerweb/ManagerWebApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/target/classes/com/husky/managerweb/ManagerWebApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/target/classes/com/husky/managerweb/controller/MavageController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/target/classes/com/husky/managerweb/entity/BaseAttrInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/target/classes/com/husky/managerweb/entity/BaseAttrValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/target/classes/com/husky/managerweb/entity/BaseCatalog1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/target/classes/com/husky/managerweb/entity/BaseCatalog2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/target/classes/com/husky/managerweb/entity/BaseCatalog3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/target/classes/com/husky/managerweb/reposity/BaseAttrInfoReposity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/target/classes/com/husky/managerweb/reposity/BaseAttrValueReposity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/target/classes/com/husky/managerweb/reposity/BaseCatalog1Reposity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/target/classes/com/husky/managerweb/reposity/BaseCatalog2Reposity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/target/classes/com/husky/managerweb/reposity/BaseCatalog3Reposity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/target/classes/com/husky/managerweb/server/ManageService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/target/classes/com/husky/managerweb/server/imp/ManageServiceImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/target/test-classes/com/husky/managerweb/ManagerWebApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/search-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/search-web/src/main/java/com/husky/searchweb/SearchWebApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/search-web/src/test/java/com/husky/searchweb/SearchWebApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/search-web/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/search-web/target/classes/com/husky/searchweb/SearchWebApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/search-web/target/classes/com/husky/searchweb/config/RedisConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/search-web/target/classes/com/husky/searchweb/entity/BaseAttrInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/search-web/target/classes/com/husky/searchweb/entity/BaseAttrValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/search-web/target/classes/com/husky/searchweb/entity/BaseCatalog1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/search-web/target/classes/com/husky/searchweb/entity/BaseCatalog2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/search-web/target/classes/com/husky/searchweb/entity/BaseCatalog3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/search-web/target/test-classes/com/husky/searchweb/SearchWebApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/servercenter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/servercenter/src/main/java/com/husky/servercenter/ServercenterApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/servercenter/src/test/java/com/husky/servercenter/ServercenterApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/servercenter/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/servercenter/target/classes/com/husky/servercenter/ServercenterApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/servercenter/target/test-classes/com/husky/servercenter/ServercenterApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop/hdfs/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop/hdfs/src/main/java/com/husky/hdfs/HdfsClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop/hdfs/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop/mapreduce/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop/mapreduce/src/main/java/com/husky/flowcount/FlowBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop/mapreduce/src/main/java/com/husky/flowcount/FlowDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop/mapreduce/src/main/java/com/husky/flowcount/FlowMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop/mapreduce/src/main/java/com/husky/flowcount/FlowReduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop/mapreduce/src/main/java/com/husky/wordcount/WcDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop/mapreduce/src/main/java/com/husky/wordcount/WcMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop/mapreduce/src/main/java/com/husky/wordcount/WcReduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop/mapreduce/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/target/classes/com/husky/hbase/HbaseApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/target/classes/com/husky/hbase/HbaseTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/target/classes/com/husky/transferdata/StudentRuuner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/target/classes/com/husky/transferdata/StudentTransfer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/target/classes/com/husky/transferdata/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/target/classes/com/husky/transferdata/mapper/StudentMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/target/classes/com/husky/transferdata/reduce/StudentReduce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/target/classes/hbase-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/target/classes/com/husky/consumer/CustomerConsumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/target/classes/com/husky/interceptor/CounterInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/target/classes/com/husky/interceptor/InterceptorProducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/target/classes/com/husky/interceptor/TimeIntercrptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/target/classes/com/husky/productor/CustomerProductor$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/target/classes/com/husky/productor/CustomerProductor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/target/kafka-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/target/kafka-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserver/config/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserver/config/target/classes/com/husku/config/ConfigApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserver/config/target/test-classes/com/husku/config/ConfigApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserver/configclient/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserver/configclient/src/main/java/com/husky/configclient/ConfigclientApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserver/configclient/src/test/java/com/husky/configclient/ConfigclientApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserver/configclient/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserver/configclient/target/classes/com/husky/configclient/ConfigclientApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserver/configclient/target/classes/com/husky/configclient/controller/ConfigClientController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserver/configclient/target/test-classes/com/husky/configclient/ConfigclientApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-api-commons/target/classes/META-INF/cloud-api-commons.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/META-INF/cloud-consumer-order80.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/target/classes/META-INF/cloud-consumerconsul-order80.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/target/classes/META-INF/cloud-consumerzk-order80.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7001/target/classes/META-INF/cloud-eureka-server7001.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7001/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7002/target/classes/META-INF/cloud-eureka-server7002.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7002/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/META-INF/cloud-provider-payment8001.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/mapper/paymentmapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/META-INF/cloud-provider-payment8002.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/mapper/paymentmapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8004/target/classes/META-INF/cloud-provider-payment8004.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8004/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8004/target/classes/mapper/paymentmapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8006/target/classes/META-INF/cloud-provider-payment8006.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8006/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+>>>>>>> microserver
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -223,11 +336,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Spring Boot.OrderMain80" />
         <item itemvalue="Spring Boot.PaymentBootstrap" />
         <item itemvalue="Spring Boot.PaymentBootstrap (1)" />
         <item itemvalue="Spring Boot.OrderConsulMain80" />
         <item itemvalue="Spring Boot.PaymentBootstrap8004" />
+=======
+        <item itemvalue="Spring Boot.PaymentBootstrap8004" />
+        <item itemvalue="Spring Boot.PaymentBootstrap (1)" />
+        <item itemvalue="Spring Boot.PaymentBootstrap" />
+        <item itemvalue="Spring Boot.OrderMain80" />
+        <item itemvalue="Spring Boot.OrderConsulMain80" />
+>>>>>>> microserver
       </list>
     </recent_temporary>
   </component>
