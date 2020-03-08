@@ -1,0 +1,13 @@
+server:
+  port: 8085
+spring:
+  application:
+    name: config
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/husky1234/microservice.git
+          username: husky1234
+          password: yy11210824
+          default-label: microserver

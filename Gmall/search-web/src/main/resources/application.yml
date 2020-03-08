@@ -1,0 +1,23 @@
+server:
+  port: 8081
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://192.168.61.110:3306/gmall?serverTimezone=UTC
+    username: root
+    password: root
+  jpa:
+    show-sql: true
+  application:
+    name: manager-web
+  redis:
+    host: 192.168.61.110
+logging:
+  level:
+    root: info
+  file:
+    path: D://springlog
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
