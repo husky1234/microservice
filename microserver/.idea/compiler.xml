@@ -7,13 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="eureka-server" />
+        <module name="microserver" />
         <module name="user-info-zuul" />
         <module name="eureka-server2" />
         <module name="user-info-eureka2" />
-        <module name="user-feign" />
-        <module name="config" />
-        <module name="microserver" />
         <module name="user-fetch-ribbon" />
+        <module name="config" />
+        <module name="user-feign" />
+        <module name="configclient" />
         <module name="user-info-eurekaclient" />
       </profile>
     </annotationProcessing>
@@ -21,6 +22,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="config" options="-parameters" />
+      <module name="configclient" options="-parameters" />
       <module name="eureka-server" options="-parameters" />
       <module name="eureka-server2" options="-parameters" />
       <module name="user-feign" options="-parameters" />
