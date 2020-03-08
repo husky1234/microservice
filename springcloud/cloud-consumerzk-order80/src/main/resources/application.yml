@@ -1,0 +1,9 @@
+server:
+  port: 80
+
+spring:
+  cloud:
+    zookeeper:
+      connect-string: 192.168.61.110:2181
+  application:
+    name: Order-Server
