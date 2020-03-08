@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2d7c7ed-e7fd-4b16-a4d0-4ad0de4bf5ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Gmall/Gmall.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/src/main/java/com/husky/managerweb/controller/MavageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/src/main/java/com/husky/managerweb/entity/BaseAttrInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/src/main/java/com/husky/managerweb/entity/BaseAttrValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/src/main/java/com/husky/managerweb/entity/BaseCatalog1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/src/main/java/com/husky/managerweb/entity/BaseCatalog2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/src/main/java/com/husky/managerweb/entity/BaseCatalog3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/src/main/java/com/husky/managerweb/reposity/BaseAttrInfoReposity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/src/main/java/com/husky/managerweb/reposity/BaseAttrValueReposity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/src/main/java/com/husky/managerweb/reposity/BaseCatalog1Reposity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/src/main/java/com/husky/managerweb/reposity/BaseCatalog2Reposity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/src/main/java/com/husky/managerweb/reposity/BaseCatalog3Reposity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/src/main/java/com/husky/managerweb/server/ManageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/src/main/java/com/husky/managerweb/server/imp/ManageServiceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/search-web/src/main/java/com/husky/searchweb/config/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/search-web/src/main/java/com/husky/searchweb/entity/BaseAttrInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/search-web/src/main/java/com/husky/searchweb/entity/BaseAttrValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/search-web/src/main/java/com/husky/searchweb/entity/BaseCatalog1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/search-web/src/main/java/com/husky/searchweb/entity/BaseCatalog2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/search-web/src/main/java/com/husky/searchweb/entity/BaseCatalog3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/search-web/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/servercenter/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/.idea/artifacts/hbase_rm_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/hbase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/src/main/java/com/husky/hbase/HbaseApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/src/main/java/com/husky/hbase/HbaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/src/main/java/com/husky/transferdata/StudentRuuner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/src/main/java/com/husky/transferdata/StudentTransfer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/src/main/java/com/husky/transferdata/mapper/StudentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/src/main/java/com/husky/transferdata/reduce/StudentReduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/src/main/resources/hbase-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/husky/consumer/CustomerConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/husky/interceptor/CounterInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/husky/interceptor/InterceptorProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/husky/interceptor/TimeIntercrptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/husky/productor/CustomerProductor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserver/config/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserver/configclient/src/main/java/com/husky/configclient/controller/ConfigClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserver/configclient/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microserver/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../microserver/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microserver/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../microserver/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microserver/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../microserver/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microserver/config/src/main/java/com/husku/config/ConfigApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../microserver/config/src/main/java/com/husku/config/ConfigApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microserver/config/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microserver/user-info-eurekaclient/src/test/java/com/husky/userinfoeurekaclient/UserInfoEurekaclientApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../microserver/user-info-eurekaclient/src/test/java/com/husky/userinfoeurekaclient/UserInfoEurekaclientApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\development\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YWGihHEn2RWA6TRKEleMQ3QSNd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.CustomerConsumer">
+    <configuration name="CustomerConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.husky.consumer.CustomerConsumer" />
+      <module name="kafka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.husky.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerProductor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.husky.productor.CustomerProductor" />
+      <module name="kafka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.husky.productor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterceptorProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.husky.interceptor.InterceptorProducer" />
+      <module name="kafka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.husky.interceptor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CustomerConsumer" />
+        <item itemvalue="Application.InterceptorProducer" />
+        <item itemvalue="Application.CustomerProductor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2d7c7ed-e7fd-4b16-a4d0-4ad0de4bf5ea" name="Default Changelist" comment="" />
+      <created>1583051065179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583051065179</updated>
+      <workItem from="1583051073532" duration="16354000" />
+      <workItem from="1583246925064" duration="652000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="531" y="121" key="#Project_Structure" timestamp="1583053395668">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="531" y="121" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1583053395668" />
+    <state x="710" y="196" key="#com.intellij.ide.util.MemberChooser" timestamp="1583113393220">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="710" y="196" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1583113393220" />
+    <state x="389" y="171" key="FileChooserDialogImpl" timestamp="1583158224608">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="389" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583158224608" />
+    <state width="1478" height="194" key="GridCell.Tab.0.bottom" timestamp="1583160831265">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583160831265" />
+    <state width="1478" height="194" key="GridCell.Tab.0.center" timestamp="1583160831265">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="194" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583160831265" />
+    <state width="1478" height="194" key="GridCell.Tab.0.left" timestamp="1583160831265">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="194" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583160831265" />
+    <state width="1478" height="194" key="GridCell.Tab.0.right" timestamp="1583160831265">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="194" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583160831265" />
+    <state width="1478" height="258" key="GridCell.Tab.1.bottom" timestamp="1583160831260">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583160831260" />
+    <state width="1478" height="258" key="GridCell.Tab.1.center" timestamp="1583160831260">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1583160831260" />
+    <state width="1478" height="258" key="GridCell.Tab.1.left" timestamp="1583160831260">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1583160831260" />
+    <state width="1478" height="258" key="GridCell.Tab.1.right" timestamp="1583160831260">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1583160831260" />
+    <state x="112" y="0" key="SettingsEditor" timestamp="1583056447816">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="112" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583056447816" />
+    <state x="228" y="130" key="new project wizard" timestamp="1583155009035">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="228" y="130" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1583155009035" />
+  </component>
+</project>

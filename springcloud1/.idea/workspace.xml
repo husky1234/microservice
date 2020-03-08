@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="829adbc1-2b87-436f-b944-d32978ee133b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/src/main/java/com/husky/managerweb/controller/MavageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/src/main/java/com/husky/managerweb/entity/BaseAttrInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/src/main/java/com/husky/managerweb/entity/BaseAttrValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/src/main/java/com/husky/managerweb/entity/BaseCatalog1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/src/main/java/com/husky/managerweb/entity/BaseCatalog2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/src/main/java/com/husky/managerweb/entity/BaseCatalog3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/src/main/java/com/husky/managerweb/reposity/BaseAttrInfoReposity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/src/main/java/com/husky/managerweb/reposity/BaseAttrValueReposity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/src/main/java/com/husky/managerweb/reposity/BaseCatalog1Reposity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/src/main/java/com/husky/managerweb/reposity/BaseCatalog2Reposity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/src/main/java/com/husky/managerweb/reposity/BaseCatalog3Reposity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/src/main/java/com/husky/managerweb/server/ManageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/src/main/java/com/husky/managerweb/server/imp/ManageServiceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/manager-web/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/search-web/src/main/java/com/husky/searchweb/config/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/search-web/src/main/java/com/husky/searchweb/entity/BaseAttrInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/search-web/src/main/java/com/husky/searchweb/entity/BaseAttrValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/search-web/src/main/java/com/husky/searchweb/entity/BaseCatalog1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/search-web/src/main/java/com/husky/searchweb/entity/BaseCatalog2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/search-web/src/main/java/com/husky/searchweb/entity/BaseCatalog3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/search-web/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gmall/servercenter/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/src/main/java/com/husky/hbase/HbaseApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/src/main/java/com/husky/hbase/HbaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/src/main/java/com/husky/transferdata/StudentRuuner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/src/main/java/com/husky/transferdata/StudentTransfer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/src/main/java/com/husky/transferdata/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/src/main/java/com/husky/transferdata/mapper/StudentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/src/main/java/com/husky/transferdata/reduce/StudentReduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase/src/main/resources/hbase-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/src/main/java/com/husky/consumer/CustomerConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/src/main/java/com/husky/interceptor/CounterInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/src/main/java/com/husky/interceptor/InterceptorProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/src/main/java/com/husky/interceptor/TimeIntercrptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/src/main/java/com/husky/productor/CustomerProductor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserver/config/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserver/configclient/src/main/java/com/husky/configclient/controller/ConfigClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserver/configclient/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/out/production/scala/Hello$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/out/production/scala/Hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/out/production/scala/com/husky/PrintHello$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/out/production/scala/com/husky/PrintHello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/src/com/husky/Hello.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/src/com/husky/PrintHello.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/cloud-api-commons/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/cloud-api-commons/src/main/java/com/atguigu/springcloud/entities/CommentResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/cloud-api-commons/src/main/java/com/atguigu/springcloud/entities/PaymentEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/cloud-consumer-order80/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/cloud-consumer-order80/src/main/java/com/atguigu/springboot/OrderMain80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/cloud-consumer-order80/src/main/java/com/atguigu/springboot/config/ApplicationContextConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/cloud-consumer-order80/src/main/java/com/atguigu/springboot/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/cloud-consumer-order80/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/cloud-eureka-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/cloud-eureka-server/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/cloud-provider-payment8001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/PaymentBootstrap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/mapper/PaymentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/server/PaymentServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/server/imp/PaymentServerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/cloud-provider-payment8001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springcloud/cloud-provider-payment8001/src/main/resources/mapper/paymentmapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-eureka-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microserver/config/src/main/java/com/husku/config/ConfigApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../microserver/config/src/main/java/com/husku/config/ConfigApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microserver/config/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microserver/user-info-eurekaclient/src/test/java/com/husky/userinfoeurekaclient/UserInfoEurekaclientApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../microserver/user-info-eurekaclient/src/test/java/com/husky/userinfoeurekaclient/UserInfoEurekaclientApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\development\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YplCQtmnbudxAobV6esSQkg1Sy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="829adbc1-2b87-436f-b944-d32978ee133b" name="Default Changelist" comment="" />
+      <created>1583647288919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583647288919</updated>
+      <workItem from="1583647292072" duration="970000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="510" y="180" key="FileChooserDialogImpl" timestamp="1583647482083">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="510" y="180" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583647482083" />
+    <state x="233" y="67" key="SettingsEditor" timestamp="1583647553110">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="233" y="67" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583647553110" />
+    <state x="217" y="129" key="new project wizard" timestamp="1583647405159">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="217" y="129" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1583647405159" />
+  </component>
+</project>
