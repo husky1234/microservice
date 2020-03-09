@@ -1,0 +1,16 @@
+server:
+  port: 3344
+spring:
+  application:
+    name: cloud-config-center
+  cloud:
+    consul:
+      discovery:
+        service-name: ${spring.application.name}
+    config:
+      server:
+        git:
+          uri: git@github.com:husky1234/microservice.git
+          search-paths: microservice
+
+      label: master

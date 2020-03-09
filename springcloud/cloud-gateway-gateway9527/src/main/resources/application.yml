@@ -1,0 +1,19 @@
+server:
+  port: 9527
+spring:
+  application:
+    name: cloud-gateway
+  cloud:
+    consul:
+      discovery:
+        service-name: ${spring.application.name}
+    gateway:
+      routes:
+      - id: payment_rout
+        uri: lb://payment-server
+        predicates:
+            - Path=/payment/**
+            - Cookie=username,zzyy
+      discovery:
+        locator:
+          enabled: true

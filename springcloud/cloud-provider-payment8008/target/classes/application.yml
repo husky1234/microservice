@@ -1,0 +1,9 @@
+server:
+  port: 8008
+spring:
+  application:
+    name: payment-server
+  cloud:
+    consul:
+      discovery:
+        service-name: ${spring.application.name}
