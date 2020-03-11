@@ -25,6 +25,11 @@
         <module>cloud-hystrix-dashboard9001</module>
         <module>cloud-gateway-gateway9527</module>
         <module>cloud-configcenter3344</module>
+        <module>cloud-stream8801</module>
+        <module>cloud-nacos-payment003</module>
+        <module>cloud-nacos-payment</module>
+        <module>cloud-consumer-nacos80</module>
+        <module>cloudalibaba-config-nacos-client3377</module>
     </modules>
 
 
