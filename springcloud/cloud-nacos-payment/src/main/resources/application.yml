@@ -1,0 +1,15 @@
+server:
+  port: 9003
+spring:
+  application:
+    name: nacos-provider
+  cloud:
+    nacos:
+      discovery:
+        service: ${spring.application.name}
+        server-addr: 192.168.61.110:8848
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

@@ -1,0 +1,25 @@
+server:
+  port: 8801
+spring:
+  cloud:
+    stream:
+      binders:
+        defaultRabbit:
+          type: rabbit
+          environment:
+            spring:
+              rabbitmq:
+                host: 192.168.61.110
+                port: 5672
+                username: guest
+                password: guest
+      bindings:
+        output:
+            destination: studyExchange
+            content-type: application/json
+            binder: defaultRabbit
+    consul:
+      discovery:
+        service-name: ${spring.application.name}
+  application:
+    name: stream-server

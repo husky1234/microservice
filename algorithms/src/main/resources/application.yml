@@ -1,0 +1,7 @@
+server:
+  port: 1111
+spring:
+  rabbitmq:
+    host: 192.168.61.110
+    publisher-returns: true
+    publisher-confirm-type: simple

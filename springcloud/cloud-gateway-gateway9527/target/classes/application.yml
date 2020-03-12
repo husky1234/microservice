@@ -13,7 +13,6 @@ spring:
         uri: lb://payment-server
         predicates:
             - Path=/payment/**
-            - Cookie=username,zzyy
       discovery:
         locator:
           enabled: true

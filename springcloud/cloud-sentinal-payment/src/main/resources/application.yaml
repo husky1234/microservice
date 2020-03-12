@@ -1,0 +1,26 @@
+server:
+  port: 8010
+spring:
+  application:
+    name: sentinal-server
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.61.110:8848
+    sentinel:
+      transport:
+        dashboard: 192.168.61.110:8080
+        port: 8719
+      datasource:
+        ds1:
+          nacos:
+            server-addr: 192.168.61.110:8848
+            dataId: ${spring.application.name}
+            groupId: DEFAULT_GROUP
+            data-type: json
+            rule-type: flow
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
