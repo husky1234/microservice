@@ -30,6 +30,7 @@
         <module>cloud-nacos-payment</module>
         <module>cloud-consumer-nacos80</module>
         <module>cloudalibaba-config-nacos-client3377</module>
+        <module>cloud-sentinal-payment</module>
     </modules>
 
 
